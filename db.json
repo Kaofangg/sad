@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "Monkeyman",
+      "name": "Monkey Man",
+      "password": "12345",
+      "email": "monkeyman@gmail.com",
+      "phone": "8989898989",
+      "role": "admin",
+      "image": ""
+    }
+
+  ]
+}
